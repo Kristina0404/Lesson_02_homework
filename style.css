@@ -1,0 +1,72 @@
+main{
+    background-color: rgb(194, 236, 222);  
+    font-style: italic;
+    padding-left: 40px;
+    text-emphasis: none;
+
+}
+body{
+    border: 2pc;
+}
+.headline{
+    color :rgb(4, 4, 165);
+    font:size 24px;
+    text-align:center;
+    text-shadow: cadetblue;
+}
+.subheader {
+    color:rgb(80, 80, 186);
+    font-size: large;
+    text-align: center; 
+    font-style: italic;
+}
+ #panda {
+    text-align: center;
+    width: 200px;
+ }
+
+.intro {
+color: darkblue;
+   font-size: larger;
+   font-weight: 100; 
+   
+}
+.main-text {
+    color: darkblue;
+    font-size: 12pt;
+    font-weight: 100;
+    padding-left: 20px;
+    white-space: pre-line;
+    
+}
+#text-more {
+    color: darkblue;
+    white-space: pre-line;
+    font-size: medium;
+    padding-left: 20px;
+}
+.bald-idea {
+    color: darkblue;
+    white-space: pre-line;
+    font-size: medium;
+    padding-left: 20px;
+    text-decoration: underline rgb(132, 106, 201);
+
+}
+main p {
+    color: darkblue;
+    font-size: large;
+    font-weight: 100;
+    padding-left: 20px;
+    white-space: pre-line;
+}
+#idea3 {
+   color: blueviolet;
+}
+#endtext {
+    color: blueviolet;
+    text-decoration: none;
+}
+.footer-element {
+    text-decoration-line: underline;
+}
